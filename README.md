@@ -1,3 +1,4 @@
+# facebook 开源的流量预估包，做了些删改
 # Prophet: Automatic Forecasting Procedure
 
 Prophet is a procedure for forecasting time series data.  It is based on an additive model where non-linear trends are fit with yearly and weekly seasonality, plus holidays. It works best with daily periodicity data with at least one year of historical data. Prophet is robust to missing data, shifts in the trend, and large outliers.
